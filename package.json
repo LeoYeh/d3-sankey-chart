@@ -1,0 +1,26 @@
+{
+  "name": "sankey-chart",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "colormap": "^2.3.2",
+    "d3": "^7.8.5",
+    "d3-sankey": "^0.12.3",
+    "d3-sankey-circular": "^0.34.0",
+    "echarts-for-react": "^3.0.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "reaviz": "^14.9.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^1.3.0",
+    "vite": "^2.9.15"
+  }
+}
